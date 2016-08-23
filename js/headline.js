@@ -1,7 +1,5 @@
 (function($){
   $(function(){
-		$('.scrollspy').scrollSpy();
-
     /*** Animate word ***/
 
     //set animation timing

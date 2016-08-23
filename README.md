@@ -2,10 +2,13 @@
 
 A static web page that i developed to tell a little bit about my self, it contains a little information about me, and i've shared some of my social media in it. Feel free to ask me about anything, regardless of it has connection about this site or not, if i might to be any kind of a help to you then it would be My pleasure to help.
 
+[Link To The Project](https://jibberish1996.github.io/)
+
 ## Built With
 
 * [MaterializeCSS](https://github.com/PurpleBooth) - Personally, My favorite Front-End's framework.
-* Atom - Personally, My favorite Text Editor
+* [Modernizr](https://modernizr.com/) - Library to check user's browser compatibility
+* [Atom](https://atom.io/) - Personally, My favorite Text Editor.
 
 ## Acknowledgments
 
