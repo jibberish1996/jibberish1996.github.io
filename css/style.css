@@ -122,21 +122,6 @@ Typing Animation
 
 /* --------------------------------
 
-Typing Animation's Responsiveness
-
--------------------------------- */
-@media only screen and (max-width: 480px) {
-  .text_h {
-  padding: 4% 0;
-  font-size: 5em;
-  font-weight: 100;
-  color: white;
-  }
-}
-
-
-/* --------------------------------
-
 Timeline
 
 -------------------------------- */
@@ -341,9 +326,6 @@ Timeline's Components
   display: table;
   clear: both;
 }
-.cd-timeline-content h2 {
-  color: #303e49;
-}
 .cd-timeline-content p, .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
   font-size: 13px;
   font-size: 0.8125rem;
@@ -381,10 +363,6 @@ Timeline's Components
   border-right: 7px solid white;
 }
 @media only screen and (min-width: 768px) {
-  .cd-timeline-content h2 {
-    font-size: 20px;
-    font-size: 1.25rem;
-  }
   .cd-timeline-content p {
     font-size: 16px;
     font-size: 1rem;
